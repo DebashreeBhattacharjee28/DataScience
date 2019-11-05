@@ -1,4 +1,4 @@
-# This is a project that has been done on Investigation of AirBn activity in Berlin
+# This is a project that has been done on Investigation of Airbnb activity in Berlin
 
 ## Steps involved:
    
